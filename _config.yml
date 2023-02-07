@@ -10,17 +10,17 @@
 ############################
 
 # Name of website
-title: My Website
+title: The Website of Dalton Michael Meyers
 
 # Your name to show in the footer
-author: Some Person
+author: Dalton Meyers
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "First Year Student at Williams College. Before starting collge I spent six years in the Navy. During my time in the Navy I had the luxary of living in Japan for close to 3 years"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
