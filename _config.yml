@@ -20,7 +20,7 @@ author: Dalton Meyers
 ###############################################
 
 navbar-links:
-  About Me: "First Year Student at Williams College. Before starting collge I spent six years in the Navy. During my time in the Navy I had the luxary of living in Japan for close to 3 years"
+  About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
