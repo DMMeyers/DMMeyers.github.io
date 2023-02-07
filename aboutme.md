@@ -6,8 +6,8 @@ subtitle: Why you'd want to go on a date with me
 
 My name is Dalton Meyers. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I rock a ~~great~~ mustache
+- I'm _extremely_ loyal to my family
 
 What else do you need?
 
@@ -19,4 +19,5 @@ I am a first year student at Williams College. Before coming to Williams, I spen
 
 ... __IT GREAT TO MEET YOU!!!__
 
-[my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
+... If you want to know more, I encouage you to watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions :)
