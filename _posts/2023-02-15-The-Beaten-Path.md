@@ -7,6 +7,7 @@ gh-badge: [star, fork, follow]
 tags: [HW]
 comments: true
 ---
+
 ![PATH](https://DMMeyers.github.io/assets/img/path.jpg){: .mx-auto.d-block :}
 
 Create one post for the due date, that includes your name, your year, [potential] major(s), your sewing experience, your programming experience, what you hope to learn in this class, and one boring fact about you.
@@ -19,9 +20,7 @@ Here's a useless table:
 
 
 
-~~~
-It can also be centered!
-~~~
+
 
 
 
