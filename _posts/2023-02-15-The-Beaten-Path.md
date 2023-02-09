@@ -1,36 +1,29 @@
 ---
 layout: post
 title: The Beaten Path
-subtitle: Stomping Hard to Chart a New Course
+subtitle: Where tf is it?
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [HW]
 comments: true
 ---
+![PATH](https://DMMeyers.github.io/assets/img/path.jpg){: .mx-auto.d-block :}
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
-
-**Here is some bold text**
+Create one post for the due date, that includes your name, your year, [potential] major(s), your sewing experience, your programming experience, what you hope to learn in this class, and one boring fact about you.
 
 ## Here is a secondary heading
 
 Here's a useless table:
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
 
 
-How about a yummy crepe?
 
-![PATH](https://DMMeyers.github.io/assets/img/path.jpg)
 
+~~~
 It can also be centered!
+~~~
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
+
 
 Here's a code chunk:
 
