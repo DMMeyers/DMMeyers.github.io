@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
+title: The Beaten Path
+subtitle: Stomping Hard to Chart a New Course
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [HW]
 comments: true
 ---
 
