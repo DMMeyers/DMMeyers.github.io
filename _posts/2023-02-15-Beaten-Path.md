@@ -8,6 +8,8 @@ tags: [HW]
 comments: true
 ---
 
+**Bold text**
+
 ## Here is a secondary heading
 
 ![PATH](https://DMMeyers.github.io/assets/img/path.jpg){: .mx-auto.d-block :}
