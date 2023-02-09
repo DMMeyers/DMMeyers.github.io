@@ -11,7 +11,7 @@ My name is Dalton Meyers. I have the following qualities:
 
 What else do you need?
 
-#__My story__ 
+# __My story__ 
 
 I am a first year student at Williams College. Before coming to Williams, I spent 6 years serving in the US Navy. The time I spent in the Navy allowed me to mature and helped me decide how I wanted to live the rest of my life. While I was in the Navy, I lived in Japan for nearly __4 years__! It was the first time I had been out of the country and it was genuinely life changeing.
 
