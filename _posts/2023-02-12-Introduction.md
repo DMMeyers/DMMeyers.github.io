@@ -18,7 +18,7 @@ One boring thing you ought to know about me is... I am lactose tolerant.
 That being said, here is a picture of a few years back, chilling with my monkey friend who I met on a walk one morning in Singapore.
 
 
-![PATH](https://DMMeyers.github.io/assets/img/monkey.jpeg){: .mx-auto.d-block :}
+![Young good looking man in white shorts and pastel cream button up short sleeve shirt sitting on a wooden bench on a walking path with jungle greenery back drop and the sun partially shining through just above his head. He looks cooly away from the camera and away from a small monkey which sits to his left on the same bench. There are leaves strewn about the ground](https://DMMeyers.github.io/assets/img/monkey.jpeg){: .mx-auto.d-block :}
 
 
 
