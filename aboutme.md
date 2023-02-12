@@ -3,7 +3,7 @@ layout: page
 title: About me
 subtitle: Why you'd want to go on a date with me
 ---
-
+![PATH](https://DMMeyers.github.io/assets/img/path.jpg){: .mx-auto.d-block :}
 My name is Dalton Meyers. I have the following qualities:
 
 - I rock a ~~great~~ mustache
