@@ -50,11 +50,11 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "dmm8@williams.edu"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+#  rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: DMMeyers
 #  medium: yourname
 #  reddit: yourname
-  linkedin: Dalton Meyers
+#  linkedin: Dalton Meyers
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  telephone: +14159998888
