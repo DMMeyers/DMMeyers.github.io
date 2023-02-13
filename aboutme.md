@@ -1,23 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 ---
-![PATH](https://DMMeyers.github.io/assets/img/path.jpg){: .mx-auto.d-block :}
-My name is Dalton Meyers. I have the following qualities:
-
-- I rock a ~~great~~ mustache
-- I'm _extremely_ loyal to my family
-
-What else do you need?
-
-# __My story__ 
-
-I am a first year student at Williams College. Before coming to Williams, I spent 6 years serving in the US Navy. The time I spent in the Navy allowed me to mature and helped me decide how I wanted to live the rest of my life. While I was in the Navy, I lived in Japan for nearly __4 years__! It was the first time I had been out of the country and it was genuinely life changeing.
-
-... My aim is to major in Japanese and either math/stats/econ or CS (who knows?). I recognize that I may seem intimidating at first, but please know that I am friendly once you start talking to me and I am always interested in conversation.
-
-... __IT GREAT TO MEET YOU!!!__
 
 
-... If you want to know more, I encouage you to watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions :)
+**M**y name is Dalton Meyers and I love to tinker. I discovered this love during the 6 years I spent as technician in the US Navy. 3 years ago, I left the service, and am now a first year student at Williams College challenging myself to be all I can be. It is in this pursuit that I enrolled into etextiles this spring. With the circuitry, sewing and programming skills I am developing, I will garner key insights into the process of creation and problem solving in the modern age.
+
+![A man in a blue ball cap stands on a the weather deck of a haze gray steel warship. He leans against a guardrail with his body facing the ocean and his head slightly turned back toward the camers, the sun is setting over the ocean beyond him.](https://DMMeyers.github.io/assets/img/Jpn.jpeg){: .mx-auto.d-block :}
