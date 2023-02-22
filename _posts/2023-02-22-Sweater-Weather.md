@@ -12,7 +12,7 @@ comments: true
 
 ## The Result
 
-![Random string of blue and white lines of code.](https://DMMeyers.github.io/assets/img/sweater.png) {: .mx-auto.d-block :}
+![Random string of blue and white lines of code.](https://DMMeyers.github.io/assets/img/sweater.png)
 
 ## Project Advice
 
